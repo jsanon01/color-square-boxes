@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+}
+/* Settings: 3 vertical colored-squared-boxes; */
+/*.red {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	
+}
+.yellow {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	
+}
+
+.green {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+}*/
+/*=============================================== */
+/* Settings: 3 edged colored-squared-boxes; */
+/* Shapes: RASTAFARI FLAG */
+
+/*.red {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: relative;
+	top: 200px;
+	left: 200px;
+	
+}
+
+.yellow {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position: relative;
+	left: 100px;
+	top: 100px;
+}
+
+.green {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	position: absolute;
+}*/
+/*====================================== */
+/* Settings: 3 edged colored-squared-boxes; */
+/* Shapes: Stairs: Red|top, yellow|middle, and green|bottom; */
+
+.red {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	
+}
+
+.yellow {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position: relative;
+	left: 100px;
+	top: 0px;
+}
+
+.green {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	position: relative;
+	left: 200px;
+
+}
